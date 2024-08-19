@@ -1,0 +1,43 @@
+.main-section {
+  background-image: url("../img/img-main.jpeg");
+  background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+.main-section-venta {
+  background-image: url("../img/main2.jpg");
+  background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+.main-section-alquiler {
+    background-image: url("../img/main3.jpg");
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+  }
+
+.card {
+  height: 100px;
+}
+
+.card img {
+  height: 250px;
+}
